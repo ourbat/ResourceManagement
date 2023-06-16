@@ -4,7 +4,6 @@ import time
 
 # 添加对OpenHardwareMonitorLib.dll的引用
 clr.AddReference(os.path.dirname(os.path.abspath(__file__)) + '\OpenHardwareMonitorLib.dll')
-# clr.AddReference(r'./OpenHardwareMonitorLib.dll')
 from OpenHardwareMonitor.Hardware import *
 
 
