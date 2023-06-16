@@ -1,0 +1,2 @@
+# ResourceManagement
+用python封装OpenHardwareMonitorLib的一款资源监视器，实时监控CPU和GPU的使用百分比和硬件温度。
